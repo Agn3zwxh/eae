@@ -1,0 +1,35 @@
+header{background-color: 
+    rgba(124, 95, 153, 0.651);
+margin-left: 65px;
+margin-right: 65px;
+margin-bottom: 65px;
+margin-top: 30px;
+max-width: 90%;}
+
+marquee{background-color: rgba(91, 90, 102, 0);}
+
+div{background-color: rgba(29, 128, 42, 0.548);
+margin-right: 55px;
+margin-left: 55px;}
+
+
+h2{background-color:  rgba(27, 80, 129, 0.575) ;
+    margin-right: 115px;
+    margin-left: 115px;
+}
+
+body{
+    margin-left: 85px;
+    margin-right: 85px;}
+    
+    img{
+        
+        margin-left: 300px;
+        margin-right: 300px;}
+
+   .uno{
+background-color: burlywood;
+    display: grid;
+
+
+    }
